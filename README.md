@@ -9,7 +9,7 @@
 
 ### A bit about me...
 
-For me, it’s not just about writing clean code - it’s about solving real problems that help people and businesses move forward.
+I love to build. For me, it’s not just about writing clean code - it’s about solving real problems that help people and businesses move forward.
 
 When I’m not coding, you’ll probably find me behind a piano or a bass guitar.🙂
 
