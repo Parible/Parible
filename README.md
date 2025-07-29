@@ -33,4 +33,4 @@ When I’m not coding, you’ll probably find me behind a piano or a bass guitar
 
 ### 🎯 Slogan
 
-> *Today is a new day, a new dawn and a new opportunity to become a better YOU.* — Cassey Conley
+> *Today is a new day, a new dawn and a new opportunity to become a better YOU.* - Cassey Conley
