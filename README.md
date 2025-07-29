@@ -13,10 +13,6 @@ I'm a Ghana-based developer with 3+ years of experience crafting scalable softwa
 
 When I’m not coding, you’ll probably find me behind a piano or a bass guitar.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to%20Remote%20Work-28a745?style=for-the-badge&logo=github" alt="Open to Remote Work Badge" />
-</p>
-
 ---
 
 ### 📊 GitHub at a Glance
