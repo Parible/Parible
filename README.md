@@ -15,14 +15,6 @@ When I’m not coding, you’ll probably find me behind a piano or a bass guitar
 
 ---
 
-### 📊 GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parible&show_icons=true&theme=radical&hide_title=true" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 🌐 [patrick-nyame.vercel.app](https://patrick-nyame.vercel.app)
