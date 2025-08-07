@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Patrick!</h1>
+<h1 align="center">Hi, I'm <span style="color:#5e9eff;">Patrick</span> 👋</h1>
 
 <p align="center">
   <strong>Software Engineer</strong> • <strong>Problem Solver</strong><br/>
   I’ve spent 4+ years helping startups and teams build scalable, reliable apps.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5E9EFF&center=true&vCenter=true&width=435&lines=I+Build.Solve.Automate.Innovate" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +14,7 @@
 ### A bit about me...
 
 I love to build. For me, it’s not just about writing clean code - it’s about solving real problems that help people and businesses move forward.
-
-When I’m not coding, you’ll probably find me behind a piano or a bass guitar.🙂
+When I’m not coding, you’ll probably find me behind a piano or a bass guitar. 🙂
 
 ---
 
@@ -25,4 +28,5 @@ When I’m not coding, you’ll probably find me behind a piano or a bass guitar
 
 ### 🎯 Slogan
 
-> *Today is a new day, a new dawn and a new opportunity to become a better YOU.* - Cassey Conley
+> *Today is a new day, a new dawn and a new opportunity to become a better YOU.*  
+> <sub>- Cassey Conley</sub>
